@@ -1,0 +1,378 @@
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.exe
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.deps.json
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.runtimeconfig.json
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.pdb
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\ClassLibrary1.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.AssemblyReference.cache
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.g.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.g.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.g.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.g.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.cache
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.lref
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.baml
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.baml
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.baml
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.baml
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.baml
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.g.resources
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfoInputs.cache
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfo.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CoreCompileInputs.cache
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CopyComplete
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\refint\PROG_PART_02.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.pdb
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.genruntimeconfig.cache
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\ref\PROG_PART_02.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_Content.g.cs
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ruimanuel\source\repos\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.exe
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.deps.json
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.runtimeconfig.json
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.pdb
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\ClassLibrary1.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.AssemblyReference.cache
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.g.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.g.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.g.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.g.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_Content.g.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.cache
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.lref
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.baml
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.baml
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.baml
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.baml
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.baml
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.g.resources
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfoInputs.cache
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfo.cs
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CoreCompileInputs.cache
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CopyComplete
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\refint\PROG_PART_02.dll
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.pdb
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.genruntimeconfig.cache
+C:\Users\js18z\OneDrive\Ambiente de Trabalho\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\ref\PROG_PART_02.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.exe
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.deps.json
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.runtimeconfig.json
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.pdb
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Core.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Identity.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Memory.Data.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\ClassLibrary1.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.g.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.g.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.g.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.g.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.g.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.g.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\App.g.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_Content.g.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.cache
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.lref
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.baml
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.baml
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.baml
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.baml
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.baml
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.baml
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.g.resources
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfo.cs
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CopyComplete
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\refint\PROG_PART_02.dll
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.pdb
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.genruntimeconfig.cache
+\\Mac\Home\Desktop\Study\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\ref\PROG_PART_02.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.exe
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.deps.json
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.runtimeconfig.json
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.pdb
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\ClassLibrary1.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.AssemblyReference.cache
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.g.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.g.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.g.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.g.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.g.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\App.g.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_Content.g.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.cache
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.lref
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.baml
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.baml
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.baml
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.baml
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.baml
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.g.resources
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfoInputs.cache
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfo.cs
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CoreCompileInputs.cache
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PAR.C92D52C1.Up2Date
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\refint\PROG_PART_02.dll
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.pdb
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.genruntimeconfig.cache
+E:\Uni work\2022 Academic Year\Semester 02\PROG6212\Part 02\Rui_Manuel - ST10081693\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\ref\PROG_PART_02.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.exe
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.deps.json
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.runtimeconfig.json
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.pdb
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\ClassLibrary1.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.AssemblyReference.cache
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.g.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.g.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.g.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.g.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_Content.g.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.cache
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.lref
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.baml
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.baml
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.baml
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.baml
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.baml
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.g.resources
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfoInputs.cache
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfo.cs
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PAR.C92D52C1.Up2Date
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\refint\PROG_PART_02.dll
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.pdb
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.genruntimeconfig.cache
+C:\Users\Rui\Desktop\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\ref\PROG_PART_02.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.exe
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.deps.json
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.runtimeconfig.json
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\PROG_PART_02.pdb
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\bin\Debug\net6.0-windows\ClassLibrary1.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.g.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.g.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.g.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.g.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.g.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\App.g.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_Content.g.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.cache
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02_MarkupCompile.lref
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Display_modules.baml
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Module_info.baml
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Register.baml
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Remainig_Hours.baml
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\Semester_Info.baml
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.g.resources
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.AssemblyInfo.cs
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PAR.C92D52C1.Up2Date
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\refint\PROG_PART_02.dll
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.pdb
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\PROG_PART_02.genruntimeconfig.cache
+C:\Mac\Home\Documents\Job\SQL Project\PROG_PART_02\PROG_PART_02\obj\Debug\net6.0-windows\ref\PROG_PART_02.dll

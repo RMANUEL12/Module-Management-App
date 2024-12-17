@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pics_Folder\buckled-book-gf9595d1b6_1280.jpg" />
+    <None Remove="Pics_Folder\calendar-gccaccc169_1920.jpg" />
+    <None Remove="Pics_Folder\college-g1ef106248_1920.jpg" />
+    <None Remove="Pics_Folder\learning-g020daab7d_1920.jpg" />
+    <None Remove="Pics_Folder\time-management-g5f298f725_1920.jpg" />
+    <None Remove="Pics_Folder\to-register-g94ceb6021_1920.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows\PROG_PART_02.deps.json" />
+    <Content Include="bin\Debug\net6.0-windows\PROG_PART_02.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary1">
+      <HintPath>ClassLib\ClassLibrary1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Pics_Folder\buckled-book-gf9595d1b6_1280.jpg" />
+    <Resource Include="Pics_Folder\calendar-gccaccc169_1920.jpg" />
+    <Resource Include="Pics_Folder\college-g1ef106248_1920.jpg" />
+    <Resource Include="Pics_Folder\learning-g020daab7d_1920.jpg" />
+    <Resource Include="Pics_Folder\time-management-g5f298f725_1920.jpg" />
+    <Resource Include="Pics_Folder\to-register-g94ceb6021_1920.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0-windows\ClassLibrary1.dll" />
+    <None Include="bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" />
+    <None Include="bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll" />
+    <None Include="bin\Debug\net6.0-windows\PROG_PART_02.dll" />
+    <None Include="bin\Debug\net6.0-windows\PROG_PART_02.exe" />
+    <None Include="bin\Debug\net6.0-windows\PROG_PART_02.pdb" />
+    <None Include="bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll" />
+    <None Include="bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll" />
+    <None Include="bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll" />
+    <None Include="bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll" />
+    <None Include="bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll" />
+    <None Include="bin\Debug\net6.0-windows\Student_database.mdf" />
+    <None Include="bin\Debug\net6.0-windows\Student_database_log.ldf" />
+    <None Include="bin\Debug\net6.0-windows\System.Data.SqlClient.dll" />
+  </ItemGroup>
+
+</Project>
